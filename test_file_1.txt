@@ -1,1 +1,2 @@
 This is the text file for test day 2
+why is the text not showing on github.com
